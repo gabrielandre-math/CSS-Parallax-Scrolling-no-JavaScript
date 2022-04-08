@@ -1,5 +1,5 @@
 # CSS-Parallax-Scrolling-no-JavaScript
-I used just using HTML and CSS for this code no JavaScript
+I used just using HTML and CSS for this code no JavaScript.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/WNddrxr
 

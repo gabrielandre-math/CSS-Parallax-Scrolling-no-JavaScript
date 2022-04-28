@@ -29,7 +29,6 @@ header h1 {
 header, header:before {
     background: 50% 50% / cover;
 }
-
 header::before {
     bottom: 0;
     content: "";
